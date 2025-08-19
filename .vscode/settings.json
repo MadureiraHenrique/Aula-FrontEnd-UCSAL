@@ -1,0 +1,10 @@
+{
+  "editor.formatOnSave": true,
+  "files.autoSave": "afterDelay",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.wordWrap": "on",
+  "workbench.colorTheme": "Best Themes - Synthwave Black(No Neon)",
+  "editor.mouseWheelZoom": true,
+  "editor.formatOnPaste": true,
+  "editor.autoIndentOnPaste": true
+}
